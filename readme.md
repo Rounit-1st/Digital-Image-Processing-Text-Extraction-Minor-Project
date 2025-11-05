@@ -1,4 +1,4 @@
-# Document Scanner
+# Document Scanner (Image perspective transformer and cropper)
 
 A Python-based document scanner that detects document edges and applies perspective correction to get a bird's eye view.
 
